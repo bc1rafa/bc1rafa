@@ -32,9 +32,14 @@ Founder of **Oh My Candy Gourmet**, delivering premium dessert experiences for e
 ---
 
 ## 📊 GitHub Stats
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=bc1rafa&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bc1rafa&layout=compact&theme=dark)
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=bc1rafa&show_icons=true&theme=dark&hide_border=true" height="180"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bc1rafa&layout=compact&theme=dark&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
